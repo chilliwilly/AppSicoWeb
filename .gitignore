@@ -41,3 +41,23 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.sln
+*.suo
+*.edmx
+*.dll
+#
+/AppSicoWeb/AppWebSico/Properties/
+/AppSicoWeb/AppWebSico/obj/
+/AppSicoWeb/AppWebSico/bin/
+#
+/AppSicoWeb/AppWebSico_BL/Properties/
+/AppSicoWeb/AppWebSico_BL/obj/
+/AppSicoWeb/AppWebSico_BL/bin/
+#
+/AppSicoWeb/AppWebSico_DL/Properties/
+/AppSicoWeb/AppWebSico_DL/obj/
+/AppSicoWeb/AppWebSico_DL/bin/
+#
+/AppSicoWeb/AppWebSico_Class/Properties/
+/AppSicoWeb/AppWebSico_Class/obj/
+/AppSicoWeb/AppWebSico_Class/bin/
